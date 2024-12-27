@@ -36,3 +36,10 @@ def dailyclaim():
         print(f"Error : {e}")
     
 dailyclaim()
+
+# Credit:
+print("\n==============================")
+print("Developed by: Dasar Pemulung")
+print("Join Telegram Channel: @dasarpemulung")
+print("YouTube: Dasar Pemulung")
+print("==============================")
